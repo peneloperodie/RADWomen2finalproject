@@ -1,0 +1,3 @@
+//AddIngredient method: call the method with the parameters then assert that an ingredient with those details has been created as a child of that recipe
+//generateGroceryList: Create a recipe, add several ingredients to it. Then call the method and check that it finds each of the ingredients
+//2nd test for generateGroceryList: create a recipe, don't add any ingredients. Call the method and check that it returns null
